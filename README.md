@@ -1,1 +1,3 @@
-# forgecti.github.io
+# ForgeCTI
+
+Thesis available at: thesis/
